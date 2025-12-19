@@ -1,0 +1,5 @@
+{
+  "name": "Code Sinicization Remover",
+  "description": "An intelligent tool that translates Chinese comments, strings, and identifiers in your code to English while preserving logic and structure.",
+  "requestFramePermissions": []
+}
